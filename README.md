@@ -2,7 +2,7 @@
 
 Stochastic simulation of AMPA receptor dynamics with the Gillespie algorithm
 
-The following explains which figures of the bachelor thesis "Stochastische Simulation von AMPA-Rezeptor-Dynamiken mithilfe des Gillespie-Algorithmus" (translation: "Stochastic simulation of AMPA receptor dynamics using the Gillespie algorithm") were made with which program. The programs are implemented by the author Anh Duong Vo. 
+The following explains which figures of the bachelor thesis "Stochastische Simulation von AMPA-Rezeptor-Dynamiken mithilfe des Gillespie-Algorithmus" (translation: "Stochastic simulation of AMPA receptor dynamics using the Gillespie algorithm") were made with which program. The programs were implemented by the author Anh Duong Vo. 
 
 Fig. 3.5(a), Fig. 3.6(a), Fig. 3.7(a) and tables 6.2, 6.3: sanityCheckShortTerm.py
 
